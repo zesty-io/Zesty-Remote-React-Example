@@ -14,6 +14,7 @@ Files to note (they pull data from Zesty.io, using an example Zesty instance, [Z
 This is created through `create-react-app`, so
 
 	git clone https://github.com/zesty-io/Zesty-Remote-React-Example
+	cd Zesty-Remote-React-Example/
 	npm install # use yarn if you want
 	npm start 
 
